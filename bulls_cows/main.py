@@ -11,4 +11,13 @@ sec2 = numbers[random.randint(0,len(numbers)-1)]
 numbers.remove(sec2)
 sec3 = numbers[random.randint(0,len(numbers)-1)]
 
-print(sec0, sec1, sec2, sec3)
+secret = sec0*1000 + sec1*100 + sec2*10 + sec3
+
+print("This is a guessing game! Don\'t hesitate and guess!")
+guess = input("Guess: ")
+guess_lst = []
+for i in str(guess):
+    guess_lst.append(i)
+
+bull = 0
+cow = 0
