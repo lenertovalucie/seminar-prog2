@@ -57,6 +57,8 @@ def main():
     for i in range(10):
       cislicka.append(str(i))
     random.shuffle(cislicka)
+    while cislicka[0] == 0:
+      random.shuffle(cislicka)
     for i in range(4):
       kod += cislicka[i]
   else:
