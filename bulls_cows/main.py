@@ -21,8 +21,7 @@ while answer == 0:
     for n in range(4):
         if number[n]==user_list[n]:
             bulls += 1
-            bulls_pos.append(n)
-        elif number[n] in user_list and user_list.index(number[n]) not in bulls_pos:
+        elif number[n] in user_list:
             cows +=1
     print(f"bulls:{bulls}")
     print(f"cows:{cows}")
