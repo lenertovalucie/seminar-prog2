@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 number = []
 number.append(random.randint(1,9))
@@ -35,3 +36,6 @@ while answer == 0:
     
 
 
+=======
+print("ahoj", "cau", sep= ",")
+>>>>>>> origin
