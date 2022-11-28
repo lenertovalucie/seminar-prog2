@@ -1,8 +1,8 @@
 ### Vytvoření nového Git projektu
-- lokálně vytvořit nový projekt
+- lokálně vytvořit nový Git projekt
 - přidání 2 souborů s úkoly (popis níže)
 - commit
-- vytvořit projekt na Githubu
+- vytvořit nový projekt na Githubu
 - push do Github projektu
 - pokud nevíte, jak na to, viz video: https://www.youtube.com/watch?v=7BGJDvp7KnY
 
