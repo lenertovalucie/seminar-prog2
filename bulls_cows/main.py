@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 numbers = ["1","2","3","4","5","6","7","8","9"]
 secret_code = []
@@ -31,3 +32,6 @@ while guess != secret_code_string:
   print(f"{bulls} and {cows}")
   guess = input("Guess: ")
 print("You cracked the code")
+=======
+print("ahoj", "cau", sep= ",")
+>>>>>>> origin
