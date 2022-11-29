@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 running=True
 
 
@@ -40,3 +41,6 @@ while running:
         print(f"Cows {cows}")
         print("try again: ")
 
+=======
+print("ahoj", "cau", sep= ",")
+>>>>>>> main
