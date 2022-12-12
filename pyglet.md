@@ -11,3 +11,5 @@ https://naucse.python.cz/course/pyladies/projects/pong/
 - přemýšlejte, jakou hru byste sami naprogramovali pomocí Pygletu (více po novém roce)
 
 - dokončit do 3.1. 
+- soubory nemusíte nikam dávat, jedná se jen o cvičení, znalosti pak uplatníte v projektu po novém roce
+- do Sourhnu úkolu mi jen napište, že máte hotovo
